@@ -159,10 +159,7 @@ Future Improvements
 
 How to Run
 
-1. Download or Clone the Repository.
-2. Open the project folder in VS Code.
-3. Open the `index.html` file.
-4. Run using Live Server.
+https://priyasuja2008.github.io/task-A/
 
 
 
