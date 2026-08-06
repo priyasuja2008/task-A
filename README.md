@@ -158,9 +158,7 @@ Future Improvements
 
 
 How to Run
-
-https://priyasuja2008.github.io/task-A/
-
+https://priyasuja2008.github.io/task-A-and-task-B/
 
 
 Submission Details
